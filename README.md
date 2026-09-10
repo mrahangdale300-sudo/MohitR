@@ -1,6 +1,6 @@
 # MohitR
 # 💫 About Me:
-I'm Currently Working C, C++ and  Python Projects<br>I'm looking to collaborate on open - source software development <br>I'm looking for help with data structure and algorithms<br>I'm currently learning artificial intelligence and machine learning <<br>Ask me about c, c++, python, or anime <br>Fun fact huge anime fan, especially one piece! 
+I'm Currently Working C, C++ and  Python Projects<br>I'm looking to collaborate on open - source software development <br>I'm looking for help with data structure and algorithms<br>I'm currently learning artificial intelligence and machine learning <br>Ask me about c, c++, python, or anime <br>Fun fact huge anime fan, especially one piece! 
 
 
 ## 🌐 Socials:
